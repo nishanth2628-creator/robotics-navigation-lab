@@ -1,0 +1,21 @@
+{
+  "scenario": "synthetic_warehouse_v1",
+  "reached_goal": true,
+  "planned_path_length_m": 16.0,
+  "sampled_trajectory_length_m": 15.502319,
+  "trajectory_length_method": "Sum of straight-line distances between recorded poses; not exact arc length.",
+  "final_goal_error_m": 0.094109,
+  "simulated_time_s": 41.0,
+  "control_steps": 410,
+  "collision_free_recorded_poses": true,
+  "collision_free_motion_samples": true,
+  "rejected_candidate_commands": 0,
+  "peak_wheel_speed_rad_s": 13.311266,
+  "robot_radius_m": 0.18,
+  "goal_tolerance_m": 0.1,
+  "dt_s": 0.1,
+  "obstacle_cell_count": 125,
+  "grid_resolution_m": 0.5,
+  "collision_check_max_translation_spacing_m": 0.02,
+  "collision_check_max_rotation_spacing_rad": 0.04
+}
