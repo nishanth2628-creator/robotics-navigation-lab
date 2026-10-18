@@ -1,0 +1,3 @@
+# The planner, simulator, SVG renderer and tests use Python's standard library.
+# Optional PNG preview: install Pillow, then run python demo.py --png.
+Pillow>=10.0,<13.0
